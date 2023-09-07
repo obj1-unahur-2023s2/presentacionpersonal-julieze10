@@ -27,12 +27,11 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Julian Barrionuevo
 
-Me gusta ...
+Me gusta por lo general, leer, jugar juegos de mesa, aprender muchas cosas nuevas. Me gusta pasar buen rato con amigos.
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo de Soy estudiante.
 
-Les dejo una imagen mía 
-
+Les dejo una imagen 
 ![subir archivo de imagen](imagen.jpg)
